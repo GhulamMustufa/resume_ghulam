@@ -1,0 +1,253 @@
+{
+  "main": {
+    "name":"Ghulam Mustafa",
+    "occupation":"Full Stack Developer",
+    "description":"Passionate Software Engineer and confident individual who loves to take challenges and explore new things.",
+    "image":"profilepic.jpeg",
+    "bio":"A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.",
+    "contactmessage":"DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.",
+    "email": "ghulammustafa.mf@gmail.com",
+    "phone": "+92 308-7015957",
+    "address":{
+      "street":"Bahadurabad",
+      "city":"Karachi",
+      "state":"Pakistan",
+      "zip": "74800"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/file/d/1Hoi_f_RvC2OwaRYftBP4nlPGanIMfKR3/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Ghulam909",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Mustafa4934",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ghulam909",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ghulammustafa909",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/GhulamMustufa",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/hs3id7xvjss6",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of the languages, frameworks/libraries which I have used.",
+    "education":[
+      {
+        "school":"DHA Suffa University",
+        "degree":"Bachelors in Computer Sciences",
+        "graduated":"Jan 2020",
+        "description":"Gained knowledge about trend and strategies in IT market, clearing required courses with 3.00 GPA"
+      },
+      {
+        "school":"Bahria College Karsaz",
+        "degree":"Pre Engineering(HSC)",
+        "graduated":"May 2015",
+        "description":"Cleared high school subjects and secured A grade"
+      }
+    ],
+    "work":[
+      {
+        "company":"Udhaar Book",
+        "title":"ReactJs/React Native Developer",
+        "years":"June 2022 - Present",
+        "description":"Working on different features of Udhaar Book mobile application to make seamless experience for the customers for managing their digital khata"
+      },
+      {
+        "company":"Dastgyr",
+        "title":"Mobile Developer",
+        "years":"June 2021 - Mar 2022",
+        "description":"Worked on different mobile applications in react native for retailers, picker, driver and contribute to their growth"
+      },
+      {
+        "company":"Inaequo Solutions",
+        "title":"Software Engineer",
+        "years":"June 2021 - Mar 2022",
+        "description":"Worked on several projects for clients in react native, nodejs, redux"
+      },
+      {
+        "company":"Freelancer",
+        "title":"MERN Stack Developer",
+        "years":"Jan 2019 - Present",
+        "description":"Worked on several projects for many cient in reactjs, redux, react native, expo cli, MERN stack, etc"
+      },
+      {
+        "company":"Cloud Coherence",
+        "title":"ReactJS Developer",
+        "years":"Nov 2020 - Mar 2021",
+        "description":"Worked on several projects in reactjs, redux and aws serverless technologies,dynamodb, lambda functions, etc.."
+      },
+      {
+        "company":"Quanrio",
+        "title":"Software Engineer",
+        "years":"Jan 2020 - Sep 2020",
+        "description":"Worked on several web and mobile applications. Made my hands dirty on different tech languages and tools, Javascript, React, React Native, Node, KoaJs, Postgress, Trello, Swagger for API documentation"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML/HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS/CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"Bootsrap/Material Design",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"50%"
+      },
+      {
+        "name":"ES6",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
+        "name":"Redux",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"90%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"90%"
+      },
+      {
+        "name":"Knex/Koa",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
+        "level":"80%"
+      },
+      {
+        "name":"Socket",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"NPM",
+        "level":"80%"
+      },
+      {
+        "name":"Yarn",
+        "level":"70%"
+      },
+      {
+        "name":"Postman",
+        "level":"80%"
+      },
+      {
+        "name":"Swagger Documentation",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ApiAndMe",
+        "category":"API marketplace where user can also make apis",
+        "image":"apiAndMe.png",
+        "url":"https://apiandme.com/"
+      },
+      {
+        "title":"Inferstat",
+        "category":"Web App for analytical research services",
+        "image":"inferstat.png",
+        "url":"https://www.inferstat.com"
+      },
+      {
+        "title":"Satolearn",
+        "category":"Web App to watch, play, learn, make, and discover the world of Bitcoin.",
+        "image":"satolearn.png",
+        "url":"https://www.satolearn.com/"
+      },
+      {
+        "title":"Loanzify",
+        "category":"Website to manage operations related to loans",
+        "image":"loanzify.png",
+        "url":"https://www.loanzify.com/"
+      },
+      {
+        "title":"N8tive Night App",
+        "category":"React native mobile app for connecting owners and tourists",
+        "image":"nightApp.png",
+        "url":"https://docs.google.com/document/d/1MixZu4JzDExEqptvyf_5L4l_Lm3U8wah8SJUyDeMfSY/edit?usp=sharing"
+      },
+      {
+        "title":"Chance App",
+        "category":"React native mobile app where people can purchase products based on bidding",
+        "image":"chanceApp.png",
+        "url":"https://docs.google.com/document/d/17zAbawJV_aTdol3m-uMuD-OiCitr-BWGM2cKlJ0wxLw/edit?usp=sharing"
+      },
+      {
+        "title":"ChanceApp REST API",
+        "category":"This the is the REST API of chance app platform made using nodejs, expressjs, mongodb, socketio",
+        "image":"chanceAPI.png",
+        "url":"https://chance-app-api.herokuapp.com/api/docs/"
+      },
+      {
+        "title":"N8tive Night REST API",
+        "category":"This the is the REST API of n8tive night platform made using nodejs, expressjs, mongodb, socketio",
+        "image":"nightAPI.png",
+        "url":"https://native-night-api.herokuapp.com/api/docs"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Very responsive to communication. Delivery was well within expectations. Some very good , prudent, improvement suggestions were made that made the app better. Quality was excellent.",
+        "user":"sheppardta-US client"
+      },
+      {
+        "text":"After a pleasant previous experience I was happy to return with more work. Delivery was quick and quality of work was good. Recommend!",
+        "user":"harrycollin-UK client"
+      }
+    ]
+  }
+}
