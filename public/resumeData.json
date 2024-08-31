@@ -188,17 +188,12 @@
   },
   "portfolio":{
     "projects": [
+      
       {
-        "title":"ApiAndMe",
-        "category":"API marketplace where user can also make apis",
-        "image":"apiAndMe.png",
-        "url":"https://apiandme.com/"
-      },
-      {
-        "title":"Inferstat",
-        "category":"Web App for analytical research services",
-        "image":"inferstat.png",
-        "url":"https://www.inferstat.com"
+        "title":"Udhaar Web",
+        "category":"Web App for managing digital khata",
+        "image":"udhaarWeb.png",
+        "url":"https://web.udhaar.pk/"
       },
       {
         "title":"Satolearn",
@@ -228,13 +223,19 @@
         "title":"ChanceApp REST API",
         "category":"This the is the REST API of chance app platform made using nodejs, expressjs, mongodb, socketio",
         "image":"chanceAPI.png",
-        "url":"https://chance-app-api.herokuapp.com/api/docs/"
+        "url":"https://chance-app-api.onrender.com/api/docs/"
       },
       {
         "title":"N8tive Night REST API",
         "category":"This the is the REST API of n8tive night platform made using nodejs, expressjs, mongodb, socketio",
         "image":"nightAPI.png",
-        "url":"https://native-night-api.herokuapp.com/api/docs"
+        "url":"https://n8tive-night-backend.onrender.com/api/docs/"
+      },
+      {
+        "title":"Roll App",
+        "category":"Mobile application for the retailers to place their orders",
+        "image":"rollApp.png",
+        "url":"https://play.google.com/store/apps/details?id=com.oscar_unilever_app&hl=en"
       }
     ]
   },
