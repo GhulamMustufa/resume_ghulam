@@ -39,6 +39,13 @@ class App extends Component {
     });
   }
 
+  // {
+  //   "title":"Loanzify",
+  //   "category":"Website to manage operations related to loans",
+  //   "image":"loanzify.png",
+  //   "url":"https://www.loanzify.com/"
+  // },
+
   componentDidMount(){
     this.getResumeData();
   }
