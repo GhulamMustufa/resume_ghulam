@@ -45,6 +45,12 @@ class App extends Component {
   //   "image":"loanzify.png",
   //   "url":"https://www.loanzify.com/"
   // },
+  // {
+  //   "title":"N8tive Night App",
+  //   "category":"React native mobile app for connecting owners and tourists",
+  //   "image":"nightApp.png",
+  //   "url":"https://docs.google.com/document/d/1MixZu4JzDExEqptvyf_5L4l_Lm3U8wah8SJUyDeMfSY/edit?usp=sharing"
+  // },
 
   componentDidMount(){
     this.getResumeData();
