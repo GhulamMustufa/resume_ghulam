@@ -67,41 +67,75 @@
     ],
     "work":[
       {
-        "company":"Udhaar Book",
-        "title":"ReactJs/React Native Developer",
-        "years":"June 2022 - Present",
-        "description":"Working on different features of Udhaar Book mobile application to make seamless experience for the customers for managing their digital khata"
-      },
-      {
-        "company":"Dastgyr",
-        "title":"Mobile Developer",
-        "years":"June 2021 - Mar 2022",
-        "description":"Worked on different mobile applications in react native for retailers, picker, driver and contribute to their growth"
-      },
-      {
-        "company":"Inaequo Solutions",
-        "title":"Software Engineer",
-        "years":"June 2021 - Mar 2022",
-        "description":"Worked on several projects for clients in react native, nodejs, redux"
-      },
-      {
-        "company":"Freelancer",
-        "title":"MERN Stack Developer",
-        "years":"Jan 2019 - Present",
-        "description":"Worked on several projects for many cient in reactjs, redux, react native, expo cli, MERN stack, etc"
-      },
-      {
-        "company":"Cloud Coherence",
-        "title":"ReactJS Developer",
-        "years":"Nov 2020 - Mar 2021",
-        "description":"Worked on several projects in reactjs, redux and aws serverless technologies,dynamodb, lambda functions, etc.."
-      },
-      {
-        "company":"Quanrio",
-        "title":"Software Engineer",
-        "years":"Jan 2020 - Sep 2020",
-        "description":"Worked on several web and mobile applications. Made my hands dirty on different tech languages and tools, Javascript, React, React Native, Node, KoaJs, Postgress, Trello, Swagger for API documentation"
-      }
+        "company": "Unilever",
+        "title": "Mobile App Developer",
+        "years": "Aug 2022 - Present",
+        "description": [
+            "Managing Unilever's core mobile application 'Roll', used by retailers to place orders",
+            "Ensuring smooth functionality and user experience for retail partners",
+            "Implementing updates and enhancements to support retailer needs"
+        ]
+    },
+    {
+        "company": "Udhaar Book",
+        "title": "ReactJS/React Native Developer",
+        "years": "June 2022 - Present",
+        "description": [
+            "Developing features for the Udhaar Book mobile application to enhance digital ledger experience",
+            "Focused on creating a seamless customer experience for managing digital khata",
+            "Collaborating with teams to implement and optimize new app features"
+        ]
+    },
+    {
+        "company": "Dastgyr",
+        "title": "Mobile Developer",
+        "years": "June 2021 - Mar 2022",
+        "description": [
+            "Built and optimized mobile applications in React Native for retailer, picker, and driver roles",
+            "Contributed to the growth and efficiency of mobile applications",
+            "Ensured reliable app performance and usability across various user types"
+        ]
+    },
+    {
+        "company": "Inaequo Solutions",
+        "title": "Software Engineer",
+        "years": "June 2021 - Mar 2022",
+        "description": [
+            "Developed client projects using React Native, Node.js, and Redux",
+            "Collaborated on projects that required cross-functional technical expertise",
+            "Contributed to delivering quality mobile and web solutions for various clients"
+        ]
+    },
+    {
+        "company": "Freelancer",
+        "title": "MERN Stack Developer",
+        "years": "Jan 2019 - Present",
+        "description": [
+            "Worked on multiple freelance projects using ReactJS, Redux, React Native, and Expo CLI",
+            "Delivered solutions across the MERN stack (MongoDB, Express, React, Node.js)",
+            "Developed scalable and robust web and mobile applications for diverse clients"
+        ]
+    },
+    {
+        "company": "Cloud Coherence",
+        "title": "ReactJS Developer",
+        "years": "Nov 2020 - Mar 2021",
+        "description": [
+            "Worked on projects using ReactJS, Redux, and AWS serverless technologies",
+            "Built and managed databases with DynamoDB, and created Lambda functions",
+            "Focused on scalable, cloud-native applications leveraging AWS services"
+        ]
+    },
+    {
+        "company": "Quanrio",
+        "title": "Software Engineer",
+        "years": "Jan 2020 - Sep 2020",
+        "description": [
+            "Developed web and mobile applications using JavaScript, React, React Native, and Node",
+            "Utilized Koa.js, PostgreSQL, and Swagger for API documentation and integration",
+            "Collaborated with teams using Trello for project management and task tracking"
+        ]
+    }
     ],
     "skills":[
       {
