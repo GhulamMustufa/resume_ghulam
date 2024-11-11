@@ -15,7 +15,7 @@
       "zip": "74800"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/1uzrmAVKydwDUPv-BHByLUnPEbcDgKG3u/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1pXEWihr7kyruLMZiOZJ9vH3B8ZcUO5kC/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -88,11 +88,11 @@
     },
     {
         "company": "Dastgyr",
-        "title": "Mobile Developer",
+        "title": "Full stack Developer",
         "years": "June 2021 - Mar 2022",
         "description": [
             "Built and optimized mobile applications in React Native for retailer, picker, and driver roles",
-            "Contributed to the growth and efficiency of mobile applications",
+            "Contributed to the growth and efficiency of mobile applications through backend development using Node.js and PostgreSQL.",
             "Ensured reliable app performance and usability across various user types"
         ]
     },
