@@ -15,7 +15,7 @@
       "zip": "74800"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/1pXEWihr7kyruLMZiOZJ9vH3B8ZcUO5kC/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1GB3bNXsQNwG4Jc6HG2EMETxe2HavL8vW/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -67,44 +67,44 @@
     ],
     "work":[
       {
-        "company": "Unilever",
-        "title": "Mobile App Developer",
-        "years": "Aug 2022 - Present",
-        "description": [
-            "Managing Unilever's core mobile application 'Roll', used by retailers to place orders",
-            "Ensuring smooth functionality and user experience for retail partners",
-            "Implementing updates and enhancements to support retailer needs"
-        ]
-    },
-    {
         "company": "Udhaar Book",
         "title": "ReactJS/React Native Developer",
         "years": "June 2022 - Present",
         "description": [
-            "Developing features for the Udhaar Book mobile application to enhance digital ledger experience",
-            "Focused on creating a seamless customer experience for managing digital khata",
-            "Collaborating with teams to implement and optimize new app features"
-        ]
+            "Developed high-impact features for Udhaar Book, improving digital ledger management for 100K+ users.",
+            "Enhanced app performance, reducing load times by 40%.",
+            "Collaborated with cross-functional teams to ship feature updates monthly, improving customer retention."
+          ]
+      },
+      {
+        "company": "Unilever",
+        "title": "Mobile App Developer",
+        "years": "Aug 2022 - Dec 2024",
+        "description": [
+            "Managing Unilever’s core retail app, ‘Roll’, facilitating thousands of orders daily from retailers.",
+            "Ensuring 99.9% app uptime, improving retailer experience.",
+            "Implemented new features and optimizations, increasing user engagement by 30%."
+          ]
     },
     {
         "company": "Dastgyr",
         "title": "Full stack Developer",
         "years": "June 2021 - Mar 2022",
         "description": [
-            "Built and optimized mobile applications in React Native for retailer, picker, and driver roles",
-            "Contributed to the growth and efficiency of mobile applications through backend development using Node.js and PostgreSQL.",
-            "Ensured reliable app performance and usability across various user types"
-        ]
+            "Built and optimized React Native apps for retailers, pickers, and drivers, handling 10K+ daily orders.",
+            "Developed scalable backend services using Node.js and PostgreSQL, reducing API response time by 50%.",
+            "Improved mobile app reliability, reducing crash rates from 5% to 2%."
+          ]
     },
     {
         "company": "Inaequo Solutions",
         "title": "Software Engineer",
         "years": "June 2021 - Mar 2022",
         "description": [
-            "Developed client projects using React Native, Node.js, and Redux",
-            "Collaborated on projects that required cross-functional technical expertise",
-            "Contributed to delivering quality mobile and web solutions for various clients"
-        ]
+            "Delivered React Native and Node.js solutions for multiple client projects, enhancing customer experience.",
+            "Built highly interactive UIs, leading to a 25% increase in user engagement.",
+            "Collaborated on cross-functional teams, improving code efficiency."
+          ]
     },
     {
         "company": "Freelancer",
@@ -121,9 +121,9 @@
         "title": "ReactJS Developer",
         "years": "Nov 2020 - Mar 2021",
         "description": [
-            "Worked on projects using ReactJS, Redux, and AWS serverless technologies",
-            "Built and managed databases with DynamoDB, and created Lambda functions",
-            "Focused on scalable, cloud-native applications leveraging AWS services"
+            "Developed and optimized ReactJS applications with Redux, improving frontend performance by 30% and reducing rendering times",
+            "Designed and managed DynamoDB databases, optimizing queries to handle 10K+ daily requests with low latency",
+            "Built and deployed AWS Lambda functions, reducing backend processing time by 40% and cutting infrastructure costs by 25% through serverless optimizations."
         ]
     },
     {
@@ -131,9 +131,9 @@
         "title": "Software Engineer",
         "years": "Jan 2020 - Sep 2020",
         "description": [
-            "Developed web and mobile applications using JavaScript, React, React Native, and Node",
-            "Utilized Koa.js, PostgreSQL, and Swagger for API documentation and integration",
-            "Collaborated with teams using Trello for project management and task tracking"
+            "Developed and deployed React/React Native applications, used by thousands of users.",
+            "Built RESTful APIs with Koa.js & PostgreSQL, improving data processing efficiency by 40%.",
+            "Streamlined development workflows using Swagger API documentation and Trello project tracking."
         ]
     }
     ],
