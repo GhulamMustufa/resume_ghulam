@@ -14,9 +14,9 @@ class Resume extends Component {
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <ul>
-                {work.description.map((desc, index) => (
-                    <li key={index}>👉 {desc}</li>
-                ))}
+              {work.description.map((desc, index) => (
+                <li key={index}><span role="img" aria-label="pointing right">👉</span> {desc}</li>
+              ))}
             </ul>
         </div>
       })

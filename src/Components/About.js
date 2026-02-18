@@ -25,9 +25,9 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <div>Like challenges? Yeah me too. 🙄</div>
-            <div>Constantly exploring new learning opportunities? Strange.. me too. 😉</div>
-            <p>Love technology? Hell yeah!! me too. We got quite some similarities. We should really connect!! 🤳 </p>
+            <div>Like challenges? Yeah me too. </div>
+            <div>Constantly exploring new learning opportunities? Strange.. me too. </div>
+            <p>Love technology? Hell yeah!! me too. We got quite some similarities. We should really connect!! </p>
 
             <p>{bio}</p>
             <div className="row">
