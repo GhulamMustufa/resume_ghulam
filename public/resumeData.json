@@ -15,7 +15,7 @@
       "zip": "74800"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/1xeuLZxt3i5HcuW0iV_zkdZHCcBOiUisv/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1ygF5tHBU_HUZaYT3o3zGhWS9B3x7HOAa/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -67,9 +67,19 @@
     ],
     "work":[
       {
+        "company": "Lumida Wealth",
+        "title": "Software Engineer",
+        "years": "Aug 2025 - Present",
+        "description": [
+            "Developed and optimized cross-platform applications, improving performance and user engagement across investor dashboards.",
+            "Implemented secure authentication, portfolio tracking, and real-time data sync features across mobile and web platforms.",
+            "Enhanced UI/UX consistency and responsiveness across devices, reducing app crashes and improving overall reliability."
+          ]
+      },
+      {
         "company": "Udhaar Book",
-        "title": "ReactJS/React Native Developer",
-        "years": "June 2022 - Present",
+        "title": "Software Engineer",
+        "years": "June 2022 - July 2025",
         "description": [
             "Developed high-impact features for Udhaar Book, improving digital ledger management for 100K+ users.",
             "Enhanced app performance, reducing load times by 40%.",
